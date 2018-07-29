@@ -1,4 +1,2 @@
-# Dev Portfolio
-
-Cloned from [click here](https://github.com/RyanFitzgerald/devportfolio).
-
+# vishalsoni007.github.io
+My personal portfolio
